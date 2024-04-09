@@ -12,7 +12,7 @@ With markdown syntaxes you can writ texts in a formatted way. For example headli
 | Level 2 healdine                     | `## Level 2 headline`                   |
 | Level 5 headline                     | `##### Level 5 headline`                |
 | list item                            | `- list item`                           |
-| [ ] done                             | `[ ] checkbox`                          |
+| [ ] to do                             | `[ ] checkbox`                          |
 | [x] done                             | `[x] checkbox`                          |
 | **bold text**                        | `**bold text**`                         |
 | _italicized text_                    | `_italicized text_`                     |
